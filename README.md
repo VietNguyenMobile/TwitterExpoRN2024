@@ -1,4 +1,4 @@
-[**Twitter Clone with React Native from Scratch**]([https://reactnative.dev](https://www.notjust.dev/projects/twitter))
+[**Twitter Clone with React Native from Scratch**](https://www.notjust.dev/projects/twitter)
 
 npx create-expo-app@latest TwitterExpoRN2024 --template
 => Navigation (TypeScript)
